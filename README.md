@@ -31,7 +31,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-I'd like to thank The Odin Project for their guidance and support.
+I'd like to thank the team at (The Odin Project) for their guidance and support.
 
 ## Contact
 
