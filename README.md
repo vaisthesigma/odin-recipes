@@ -13,6 +13,7 @@ This is my first HTML project, a simple web page that I've created to learn the 
 ## Description
 
 This project is a simple HTML web page that serves as my introduction to web development. It includes basic HTML elements, such as headings, paragraphs, and links.
+I've also used a bit of CSS to style my website, mostly using ChatGPT to get the code. I can understand and implement all the code I've written for this project.
 
 ## Usage
 
