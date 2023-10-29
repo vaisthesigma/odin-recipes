@@ -25,6 +25,10 @@ To view the project, simply open the `index.html` file in your web browser. You 
 - `style.css`: (if applicable) The CSS file for styling the webpage.
 - `images/`: (if applicable) Directory containing images used in the project.
 
+## Known issues
+
+- doesn't scale properly on mobile devices.
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
