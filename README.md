@@ -5,7 +5,7 @@ This is my first HTML project, a simple web page that I've created to learn the 
 
 ## Project Overview
 
-- **Project Name**: Odin REcipes
+- **Project Name**: Odin Recipes
 - **Author**: Arun Rao Balappa
 - **Date**: 29/10/23
 - **Project Type**: Educational
